@@ -89,4 +89,4 @@
 
 ## Carga Horário
 
-Mínimo de 10 horas
+Mínimo de 10 hs
