@@ -19,7 +19,7 @@ Dê os seus primeiros passos na estatística, aprendendo os conceitos fundamenta
 Nesta primeira parte, você aprenderá conceitos importantes para descrever características essenciais dos dados de interesse, frequência, média, probabilidades, amostragem. Sempre colocando a mão na massa utilizando o Python e suas bibliotecas específicas para a estatística como Scipy.Stats e Statsmodel.
 
 1. Frequências e Medidas
-2. Média ou Mediana?
+2. Média, Moda ou Mediana?
 3. Probabilidade e Amostragem
 
 ### Testes Estatísticos e Correlação
