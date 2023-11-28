@@ -1,4 +1,4 @@
-# Estatística com Python: Testes de Hipóteses
+# Testes de Hipóteses
 
 ## Objetivos
 - Entender as distribuiçōes de binomial, poisson e normal

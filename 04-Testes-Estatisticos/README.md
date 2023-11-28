@@ -1,4 +1,4 @@
-# Estatística com Python: Testes Estatísticos
+# Testes Estatísticos
 
 ## Objetivos
 - Entender as distribuiçōes de binomial, poisson e normal

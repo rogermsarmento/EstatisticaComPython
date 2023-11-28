@@ -1,4 +1,4 @@
-# Estatística com Python: Probabilidade e Amostragem
+# Probabilidade e Amostragem
 
 ## Objetivos
 - Entender as distribuiçōes de binomial, poisson e normal

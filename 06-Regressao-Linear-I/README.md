@@ -1,4 +1,4 @@
-# Estatística com Python: Regressão Linear: Testando Relações e Prevendo Resultados
+# Regressão Linear I: Testando Relações e Prevendo Resultados
 
 ## Objetivos
 - Entender as distribuiçōes de binomial, poisson e normal

@@ -1,4 +1,4 @@
-# Estatística com Python: Análise de Experimentos: Testes, Mapas de Cores e Análises dos Dados
+# Análise de Experimentos: Testes, Mapas de Cores e Análises dos Dados
 
 ## Objetivos
 - Entender as distribuiçōes de binomial, poisson e normal

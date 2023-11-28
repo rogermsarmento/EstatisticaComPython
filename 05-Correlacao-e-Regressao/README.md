@@ -1,4 +1,4 @@
-# Estatística com Python: Correlação e Regressão
+# Correlação e Regressão
 
 ## Objetivos
 - Entender as distribuiçōes de binomial, poisson e normal

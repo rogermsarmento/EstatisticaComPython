@@ -1,4 +1,4 @@
-# Estatística com Python: Regressão Linear: Técnicas Avançadas de Modelagem
+# Regressão Linear II: Técnicas Avançadas de Modelagem
 
 ## Objetivos
 - Entender as distribuiçōes de binomial, poisson e normal

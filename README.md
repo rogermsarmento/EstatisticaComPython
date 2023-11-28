@@ -14,7 +14,7 @@ Além disso, vai compreender como criar hipóteses e validá-las. Assim, você c
 ## Cronograma
 Dê os seus primeiros passos na estatística, aprendendo os conceitos fundamentais para avançar seus conhecimentos de forma mais rápida e sólida.
 
-### 1. Conceitos Fundamentais da Estatística
+### 1. Conceitos Fundamentais da Estatística 
 
 Nesta primeira parte, você aprenderá conceitos importantes para descrever características essenciais dos dados de interesse, frequência, média, probabilidades, amostragem. Sempre colocando a mão na massa utilizando o Python e suas bibliotecas específicas para a estatística como Scipy.Stats e Statsmodel.
 
