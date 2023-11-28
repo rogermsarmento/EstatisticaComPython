@@ -1,92 +1,55 @@
-# Estatística com Python: Frequências e Medidas
+# ESTATÍSTICA COM PYTHON
+## Estatística de uma forma aplicada com Python
 
-## Objetivos
-- Entender estatística e os números que lidamos
-- Descubrir a diferença entre média, mediana e moda na prática
-- Aprender os tipos de dados e classifica-los
-- Comprenda o que é a distribuição de frequência
-- Conhecer a variância e o desvio padrão
+Com o avanço da tecnologia, está cada vez maior a quantidade de dados disponíveis para análises. Desta forma, a estatística vem crescendo e auxiliando no desenvolvimento de novas áreas como a Ciência de Dados. A demanda por profissionais com domínio de estatística cresce na mesma proporção da necessidade das empresas tomarem decisões precisas e orientadas a dados.
+
+## Por Que Estudar Estatística?
+Para aprender técnicas de análise de dados, estatística, modelagem na prática, escalar o crescimento e trazer novas oportunidades, seja na empresa onde você trabalha ou no seu próprio negócio.
+
+Na Formação Estatística com Python da Alura, você vai aprender estatística de forma aplicada utilizando a linguagem Python e diversas bibliotecas e ferramentas específicas para a estatística.
+
+Além disso, vai compreender como criar hipóteses e validá-las. Assim, você conseguirá justificar as análises feitas e mostrar para a empresa o quão importante é o papel do conhecimento em estatística.
+
 
 ## Cronograma
+Dê os seus primeiros passos na estatística, aprendendo os conceitos fundamentais para avançar seus conhecimentos de forma mais rápida e sólida.
 
-### 01 - Qual o seu Tipo de Dado?
-    01. Introdução
-    02. Projeto inicial do treinamento
-    03. Preparação do ambiente
-    04. Identificando a versão de uma biblioteca
-    05. Modificando a versão
-    06. Dataset do projeto
-    07. Conjunto de dados
-    08. Tipos de dados
-    09. Classificação dos dados
-    10. Consolidando o seu conhecimento
-    11. O que aprendemos?
+### 1. Conceitos Fundamentais da Estatística
 
-### 02 - Distribuição de Frequência
-    01. Projeto da aula anterior
-    02. Distribuição de frequências qualitativas - Método 1
-    03. Criando uma tabela de frequências
-    04. Distribuição de frequências qualitativas - Método 2
-    05. Técnicas de análise
-    06. Distribuição de frequências quantitativas - Classes personalizadas
-    07. Distribuições de frequência com variáveis quantitativas
-    08. Distribuição de frequências quantitativas - Classes de amplitude fixa
-    09. Sobre distribuições de frequências
-    10. Histograma
-    11. Forma gráfica de uma distribuição de frequências
-    12. Consolidando o seu conhecimento
-    13. O que aprendemos?
+Nesta primeira parte, você aprenderá conceitos importantes para descrever características essenciais dos dados de interesse, frequência, média, probabilidades, amostragem. Sempre colocando a mão na massa utilizando o Python e suas bibliotecas específicas para a estatística como Scipy.Stats e Statsmodel.
 
-### 03 - Medidas de Tendência Central
-    01. Projeto da aula anterior
-    02. Média
-    03. Calculando a média de uma variável
-    04. Média por categoria
-    05. Mediana
-    06. Sobre a mediana
-    07. Moda e sua definição
-    08. Informação mais frequente
-    09. Relação entre medidas de tendência central
-    10. Média, mediana e moda
-    11. Consolidando o seu conhecimento
-    12. O que aprendemos?
+1. Frequências e Medidas
+2. Média ou Mediana?
+3. Probabilidade e Amostragem
 
-### 04 - Medidas Separatrizes
-    01. Projeto da aula anterior
-    02. Quartis, decis e percentis
-    03. Medidas separatrizes
-    04. Boxplot
-    05. Analisando um boxplot
-    06. Consolidando o seu conhecimento
-    07. O que aprendemos?
+### Testes Estatísticos e Correlação
 
-### 05 - Medidas de Dispersão
-    01. Projeto da aula anterior
-    02. Desvio médio absoluto
-    03. Dispersão dos dados
-    04. Comparando variáveis com mesma média e mediana
-    05. Variância
-    06. Utilizando a variância
-    07. Desvio padrão
-    08. Sobre o desvio padrão
-    09. Calculando o desvio padrão #1
-    10. Calculando o desvio padrão #2
-    11. Consolidando o seu conhecimento
-    12. O que aprendemos?
+Depois de descrever seus dados estatisticamente, chegou a hora de analisar esses dados, criar hipóteses e validá-las.
 
-### 06 - Projeto Final
-    01. Projeto da aula anterior
-    02. Projeto de Análises Descritivas - Início
-    03. Apresentação do projeto
-    04. Revisando o conteúdo
-    05. Projeto de Análises Descritivas - Final
-    06. Correção do projeto
-    07. Revisando o conhecimento um pouco mais
-    08. Consolidando o seu conhecimento
-    09. O que aprendemos?
-    10. Conclusão
-    11. Próximos passos
+Nesta seção vamos discutir sobre distribuições, testes de hipóteses, correlação e iniciar as discussões sobre regressão.
 
-## Carga Horário
+1. Testes de Hipóteses
+2. Testes Estatísticos
+3. Teste A/B
+4. Correlação e Regressão
 
-Mínimo de 10 hs
+### Previsões e Experimentos com Estatística
+
+Para fechar o nosso ciclo de aprendizado, vamos mergulhar mais fundo! Avançaremos os conhecimentos em regressão, serão testadas as relações entre variáveis e desenvolvidos modelos preditivos mais avançados.
+
+E não podemos fechar nosso mergulho sem falar em uma das áreas de grande impacto na estatística, a experimentação.
+
+1. O que é Regressão?
+2. Regressão Linear I: Testando Relações e Prevendo Resultados
+3. Regressão Linear II: Técnicas Avançadas de Modelagem
+4. Análise de Experimentos: Testes, Mapas de Cores e Análise de Dados
+
+
+
+## Sumarização
+
+ - 72 hs
+ - 08 Cursos
+ - 01 Vídeo Extra
+ - 01 Podcast
+ - 01 Artigo
